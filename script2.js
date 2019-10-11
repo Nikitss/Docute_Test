@@ -13,15 +13,15 @@ new Docute({
       children: [
         {
           title: 'Overview',
-          link: '/docs/'
+          link: '/docs/Varwinplatform_generalinformation'
         },
         {
           title: 'Install Varwin',
-          link: '/docs/'
+          link: '/docs/Varwininstallationandlaunch'
         },
         {
           title: 'FAQ',
-          link: '/guide/customization'
+          link: '/docs/FAQ_Possibletechnicalissues'
         },
       ]
     },
@@ -30,23 +30,23 @@ new Docute({
       children: [
         {
           title: 'RMS',
-          link: '/guide/use-with-bundlers'
+          link: '/docs/VarwinRMSApp'
         },
         {
           title: 'Blockly',
-          link: '/guide/offline-support'
+          link: '/docs/WorkingwithBlockly'
         },
         {
           title: 'VR Client',
-          link: '/guide/use-with-bundlers'
+          link: '/docs/CreatingVRprojects_'
         },
         {
           title: 'Desktop',
-          link: '/guide/use-with-bundlers'
+          link: '/docs/CreatingVRprojects_'
         },
         {
           title: 'FAQ',
-          link: '/guide/use-with-bundlers'
+          link: '/docs/FAQ_Possibletechnicalissues'
         }
       ]
     },
@@ -55,19 +55,19 @@ new Docute({
       children: [
         {
           title: 'Overview',
-          link: '/options'
+          link: '/docs/VarwinSDK_ENG'
         },
         {
           title: 'Attributes',
-          link: '/builtin-components'
+          link: '/docs/Publicinterfaces'
         },
         {
           title: 'Interfaces',
-          link: '/plugin-api'
+          link: '/docs/Publicinterfaces'
         },
         {
           title: 'FAQ',
-          link: '/builtin-components'
+          link: '/docs/FAQ_Possibletechnicalissues'
         }
       ]
     },
